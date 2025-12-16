@@ -1,0 +1,10 @@
+E:\Новая папка\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+E:\Новая папка\Project1\Project1\obj\Debug\Project1.Form1.resources
+E:\Новая папка\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+E:\Новая папка\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+E:\Новая папка\Project1\Project1\bin\Debug\Project1.exe.config
+E:\Новая папка\Project1\Project1\bin\Debug\Project1.exe
+E:\Новая папка\Project1\Project1\bin\Debug\Project1.pdb
+E:\Новая папка\Project1\Project1\obj\Debug\Project1.exe
+E:\Новая папка\Project1\Project1\obj\Debug\Project1.pdb
+E:\Новая папка\Project1\Project1\obj\Debug\Project1.exe.config
